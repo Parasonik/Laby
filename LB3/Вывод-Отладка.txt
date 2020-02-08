@@ -1,0 +1,20 @@
+﻿"LB3.exe" (Win32). Загружено "D:\OAiP\LB3\Debug\LB3.exe". Символы загружены.
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x23c4 завершился с кодом 0 (0x0).
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"LB3.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+Поток 0x15e0 завершился с кодом 0 (0x0).
+Поток 0x236c завершился с кодом 0 (0x0).
+Поток 0xa90 завершился с кодом 0 (0x0).
+Поток 0x23ec завершился с кодом 0 (0x0).
+Программа "[4588] LB3.exe" завершилась с кодом 0 (0x0).

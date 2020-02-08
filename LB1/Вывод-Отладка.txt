@@ -1,0 +1,19 @@
+﻿"LB1.exe" (Win32). Загружено "D:\OAiP\LB1\Debug\LB1.exe". Символы загружены.
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x24cc завершился с кодом 0 (0x0).
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"LB1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+Поток 0x1dc0 завершился с кодом 0 (0x0).
+Поток 0x25d0 завершился с кодом 0 (0x0).
+Поток 0x1b14 завершился с кодом 0 (0x0).
+Программа "[11024] LB1.exe" завершилась с кодом 0 (0x0).

@@ -1,0 +1,19 @@
+﻿"LB8.exe" (Win32). Загружено "D:\OAiP\LB8\Debug\LB8.exe". Символы загружены.
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x152c завершился с кодом 0 (0x0).
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"LB8.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0x15f0 завершился с кодом 0 (0x0).
+Поток 0x15f4 завершился с кодом 0 (0x0).
+Поток 0x2300 завершился с кодом 0 (0x0).
+Программа "[9788] LB8.exe" завершилась с кодом 0 (0x0).
