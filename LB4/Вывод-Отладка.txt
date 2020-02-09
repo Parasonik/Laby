@@ -6,6 +6,7 @@
 "LB4.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
 "LB4.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
 Поток 0xd18 завершился с кодом 0 (0x0).
+Проверяю
 "LB4.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
 "LB4.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
 "LB4.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
